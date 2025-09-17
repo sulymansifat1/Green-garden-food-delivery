@@ -17,7 +17,7 @@ A streamlined DIU food-ordering site: fast menu discovery for users plus an admi
 
 > Course: CSE336 — Software Project VI • Project: GreenGarden Food Delivery
 >
-> Report: `Team Greengarden_Software Requirement Specification.pdf` / `Team Greengarden_Software Requirement Specification.txt`
+> Report: `Team Greengarden_Software Requirement Specification.pdf` 
 
 ---
 
